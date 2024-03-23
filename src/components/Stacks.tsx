@@ -16,19 +16,16 @@ const stacks = [
     name: "Phoenix",
     category: "Web Framework",
     icon: Simple.IconPhoenix,
-    // url: "https://rive.app",
   },
   {
     name: "SwiftUI",
     category: "Mobile Framework",
     icon: Simple.IconSwift,
-    // url: "https://arc.net",
   },
   {
     name: "NeoVim",
     category: "Editor",
     icon: Simple.IconNeovim,
-    // url: "https://www.notion.so",
   }
 ];
 
