@@ -6,26 +6,31 @@ const stacks = [
     name: "React",
     category: "UI Framework",
     icon: Simple.IconReact,
+    url: "https://reactjs.org",
   },
   {
     name: "Vue",
     category: "UI Framework",
     icon: Simple.IconVue,
+    url: "https://vuejs.org",
   },
   {
     name: "Phoenix",
     category: "Web Framework",
     icon: Simple.IconPhoenix,
+    url: "https://www.phoenixframework.org",
   },
   {
     name: "SwiftUI",
     category: "Mobile Framework",
     icon: Simple.IconSwift,
+    url: "https://developer.apple.com/xcode/swiftui/",
   },
   {
     name: "NeoVim",
     category: "Editor",
     icon: Simple.IconNeovim,
+    url: "https://neovim.io",
   }
 ];
 
