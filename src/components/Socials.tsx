@@ -3,19 +3,19 @@ import { Simple } from "./icons";
 
 const socials = [
   {
-    href: "https://github.com",
+    href: "https://github.com/hhofner",
     name: "GitHub",
     icon: Simple.IconGitHub,
   },
   {
-    href: "https://x.com",
+    href: "https://twitter.com/hofner_pls",
     name: "X",
     icon: Simple.IconX,
   },
   {
-    href: "https://www.youtube.com",
-    name: "Youtube",
-    icon: Simple.IconYoutube,
+    href: "https://www.linkedin.com/in/hans-hofner/",
+    name: "LinkedIn",
+    icon: Simple.IconLinkedin,
   },
 ];
 

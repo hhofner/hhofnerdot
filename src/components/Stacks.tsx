@@ -3,41 +3,33 @@ import { Simple } from "./icons";
 
 const stacks = [
   {
-    name: "Figma",
-    category: "Design",
-    icon: Simple.IconFigma,
-    url: "https://www.figma.com",
+    name: "React",
+    category: "UI Framework",
+    icon: Simple.IconReact,
   },
   {
-    name: "Framer",
-    category: "Design",
-    icon: Simple.IconFramer,
-    url: "https://www.framer.com",
+    name: "Vue",
+    category: "UI Framework",
+    icon: Simple.IconVue,
   },
   {
-    name: "Rive",
-    category: "Design",
-    icon: Simple.IconRive,
-    url: "https://rive.app",
+    name: "Phoenix",
+    category: "Web Framework",
+    icon: Simple.IconPhoenix,
+    // url: "https://rive.app",
   },
   {
-    name: "Arc",
-    category: "Browser",
-    icon: Simple.IconArc,
-    url: "https://arc.net",
+    name: "SwiftUI",
+    category: "Mobile Framework",
+    icon: Simple.IconSwift,
+    // url: "https://arc.net",
   },
   {
-    name: "Notion",
-    category: "Productivity",
-    icon: Simple.IconNotion,
-    url: "https://www.notion.so",
-  },
-  {
-    name: "Calendly",
-    category: "Calendar",
-    icon: Simple.IconCalendly,
-    url: "https://calendly.com",
-  },
+    name: "NeoVim",
+    category: "Editor",
+    icon: Simple.IconNeovim,
+    // url: "https://www.notion.so",
+  }
 ];
 
 export default () => {
