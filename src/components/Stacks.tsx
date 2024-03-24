@@ -3,10 +3,10 @@ import { Simple } from "./icons";
 
 const stacks = [
   {
-    name: "React",
+    name: "Remix",
     category: "UI Framework",
-    icon: Simple.IconReact,
-    url: "https://reactjs.org",
+    icon: Simple.IconRemix,
+    url: "https://remix.run/",
   },
   {
     name: "Vue",
@@ -21,16 +21,10 @@ const stacks = [
     url: "https://www.phoenixframework.org",
   },
   {
-    name: "SwiftUI",
-    category: "Mobile Framework",
-    icon: Simple.IconSwift,
-    url: "https://developer.apple.com/xcode/swiftui/",
-  },
-  {
-    name: "NeoVim",
+    name: "Sublime Text",
     category: "Editor",
-    icon: Simple.IconNeovim,
-    url: "https://neovim.io",
+    icon: Simple.IconSublime,
+    url: "https://www.sublimetext.com/",
   }
 ];
 
